@@ -1,5 +1,5 @@
 {
-  "name": "react-native-card-flip",
+  "name": "mmp-react-native-card-flip",
   "version": "1.0.7",
   "description": "Card flip animation for React Native",
   "main": "index.js",
@@ -28,13 +28,13 @@
     "react-native": "0.69.6"
   },
   "bugs": {
-    "url": "https://github.com/lhandel/react-native-card-flip/issues"
+    "url": "https://github.com/melihmuratpesmen/react-native-card-flip/issues"
   },
   "bundleDependencies": false,
   "dependencies": {
     "prop-types": "15.5.10",
     "react-lifecycles-compat": "^3.0.4"
   },
-  "homepage": "https://github.com/lhandel/react-native-card-flip#readme",
+  "homepage": "https://github.com/melihmuratpesmen/react-native-card-flip#readme",
   "types": "./index.d.ts"
 }
