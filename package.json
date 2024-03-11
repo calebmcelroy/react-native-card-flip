@@ -24,8 +24,8 @@
   "author": "melihpesmen",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^16.0.0-beta.5",
-    "react-native": "0.69.6"
+    "react": "*",
+    "react-native": "*"
   },
   "bugs": {
     "url": "https://github.com/melihmuratpesmen/react-native-card-flip/issues"
